@@ -2,6 +2,8 @@
 
 This project implements a simple feedforward neural network **from scratch** using only **NumPy**, to classify handwritten digits from the **MNIST dataset**. No high-level libraries like TensorFlow or Keras are used—just raw Python and NumPy to build and train the model.
 
+Dataset Used: https://www.kaggle.com/datasets/arnavsharma45/mnist-dataset
+
 ## 🔍 Project Overview
 
 The goal of this project is to understand the fundamentals of how neural networks work internally by manually implementing:
